@@ -1,0 +1,806 @@
+.head_img {
+  background: url("../../assets/img/head_pro.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  padding: 0%;
+  margin-top: -20px;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  background: rgb(97, 228, 221);
+}
+.navbar-default {
+  background-color: #ba5c5c00;
+  border-color: #220c0c00;
+}
+.navbar > .container .navbar-brand,
+.navbar > .container-fluid .navbar-brand {
+  color: red;
+  font-family: initial;
+  margin-left: -15px;
+  font-size: 29px;
+}
+.Projects_des2,
+.Projects_des3,
+.Projects_des5,
+.Projects_des6,
+.Projects_des8,
+.Projects_des9,
+.Projects_des11,
+.Projects_des12 {
+  box-shadow: -17px -7px 39px #2f6a70;
+}
+.projects {
+  background: #bec0ba85;
+}
+.Projects_des1 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/projects.png");
+}
+.Projects_des1:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des1 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des1 .img {
+}
+.Projects_des1 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des1:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des1:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des1 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des1:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des2 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/2.png");
+}
+.Projects_des2:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des2 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des2 .img {
+}
+.Projects_des2 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des2:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des2:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des2 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des2:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des3 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/t.png");
+}
+.Projects_des3:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des3 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des3 .img {
+}
+.Projects_des3 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des3:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des3:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des3 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des3:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des4 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/4.png");
+}
+.Projects_des4:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des4 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des4 .img {
+}
+.Projects_des4 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des4:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des4:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des4 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des4:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des5 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/5.png");
+}
+.Projects_des5:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des5 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des5 .img {
+}
+.Projects_des5 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des5:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des5:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des5 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des5:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des6 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/6.png");
+}
+.Projects_des6:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des6 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des6 .img {
+}
+.Projects_des6 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des6:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des6:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des6 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des6:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des7 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/7.png");
+}
+.Projects_des7:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des7 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des7 .img {
+}
+.Projects_des7 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des7:hover .Projects_p {
+  display: block;
+  color: white;
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des7:hover .Projects_prag {
+  color: white;
+  visibility: visible;
+}
+.Projects_des7 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des7:hover i {
+  color: white;
+  visibility: visible;
+}
+
+.Projects_des8 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/8.png");
+}
+.Projects_des8:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des8 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des8 .img {
+}
+.Projects_des8 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des8:hover .Projects_p {
+  display: block;
+  color: white;
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des8:hover .Projects_prag {
+  color: white;
+  visibility: visible;
+}
+.Projects_des8 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des8:hover i {
+  color: white;
+  visibility: visible;
+}
+
+.Projects_des9 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/9.png");
+}
+.Projects_des9:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des9 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des .img {
+}
+.Projects_des9 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des9:hover .Projects_p {
+  display: block;
+  color: white;
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des9:hover .Projects_prag {
+  color: white;
+  visibility: visible;
+}
+.Projects_des9 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des9:hover i {
+  color: white;
+  visibility: visible;
+}
+
+.Projects_des10 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/1.png");
+}
+.Projects_des10:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des10 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des10 .img {
+}
+.Projects_des10 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des10:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des10:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des10 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des10:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des11 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/6.png");
+}
+.Projects_des11:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des11 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des11 .img {
+}
+.Projects_des11 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des11:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des11:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des11 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des11:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.Projects_des12 {
+  margin-top: 50px;
+  height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../../assets/img/12.png");
+}
+.Projects_des12:hover .back {
+  background: rgba(3, 3, 3, 0.33);
+  margin-top: -18px;
+  margin-left: -14px;
+  width: 108%;
+  height: 100%;
+}
+.Projects_des12 .Projects_p {
+  visibility: hidden;
+}
+.Projects_des12 .img {
+}
+.Projects_des12 .Projects_prag {
+  visibility: hidden;
+}
+.Projects_des12:hover .Projects_p {
+  display: block;
+  color: rgb(26, 24, 48);
+  padding-top: 164px;
+  visibility: visible;
+}
+.Projects_des12:hover .Projects_prag {
+  color: rgb(26, 24, 48);
+  visibility: visible;
+}
+.Projects_des12 i {
+  display: block;
+  visibility: hidden;
+}
+.Projects_des12:hover i {
+  color: #1c26afd0;
+  visibility: visible;
+}
+
+.contact_me {
+  background: #55566545;
+}
+.contact_me .h2 {
+  background: #2342;
+}
+
+#contact {
+  width: 100%;
+  height: 100vh;
+  background-color: #111;
+  overflow: hidden;
+  padding-bottom: 200px;
+}
+
+.section-header {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 50px;
+  margin-bottom: 50px;
+  font: 300 60px "Oswald", sans-serif;
+  letter-spacing: 6px;
+  color: #fff;
+  margin-bottom: 25px;
+}
+
+.contact-wrapper {
+  margin: 0 auto;
+  padding-top: 20px;
+  position: relative;
+  max-width: 800px;
+}
+
+/* Begin Left Contact Page */
+.form-horizontal {
+  float: left;
+  max-width: 400px;
+  font-family: "Lato";
+  font-weight: 400;
+}
+
+.form-control,
+textarea {
+  max-width: 400px;
+  background-color: #111;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.send-button {
+  margin-top: 15px;
+  height: 34px;
+  width: 400px;
+  overflow: hidden;
+  transition: all 0.2s ease-in-out;
+}
+
+.button {
+  width: 400px;
+  height: 34px;
+  transition: all 0.2s ease-in-out;
+}
+
+.send-text {
+  display: block;
+  margin-top: 10px;
+  font: 300 14px "Lato", sans-serif;
+  letter-spacing: 2px;
+}
+
+.button:hover {
+  transform: translate3d(0px, -29px, 0px);
+}
+
+/* Begin Right Contact Page */
+.direct-contact-container {
+  max-width: 400px;
+  float: right;
+  margin-top: 5px;
+}
+
+/* Location, Phone, Email Section */
+.contact-list {
+  list-style-type: none;
+  margin-left: -30px;
+  padding-right: 20px;
+}
+
+.list-item {
+  line-height: 4;
+  color: #aaa;
+}
+
+.contact-text {
+  font: 300 18px "Lato", sans-serif;
+  letter-spacing: 1.9px;
+  color: #bbb;
+}
+
+.place {
+  margin-left: 62px;
+}
+
+.phone {
+  margin-left: 56px;
+}
+
+.gmail {
+  margin-left: 53px;
+}
+
+.contact-text a {
+  color: #bbb;
+  text-decoration: none;
+  transition-duration: 0.2s;
+}
+
+.contact-text a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Social Media Icons */
+.social-media-list {
+  position: relative;
+  font-size: 2.3rem;
+  text-align: center;
+  width: 100%;
+}
+
+.social-media-list li a {
+  color: #fff;
+}
+
+.social-media-list li {
+  position: relative;
+  top: 0;
+  left: -20px;
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin: 10px auto;
+  line-height: 70px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: rgb(27, 27, 27);
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.social-media-list li:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  border-radius: 50%;
+  opacity: 0;
+  box-shadow: 0 0 0 1px #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.social-media-list li:hover {
+  background-color: #fff;
+}
+
+.social-media-list li:hover:after {
+  opacity: 1;
+  transform: scale(1.12);
+  transition-timing-function: cubic-bezier(0.37, 0.74, 0.15, 1.65);
+}
+
+.social-media-list li:hover a {
+  color: #111;
+}
+
+.copyright {
+  font: 200 14px "Oswald", sans-serif;
+  color: #555;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Begin Media Queries*/
+@media screen and (max-width: 760px) {
+  #contact {
+    height: 1000px;
+  }
+  .section-header {
+    font-size: 65px;
+  }
+  .direct-contact-container,
+  .form-horizontal {
+    float: none;
+    margin: 10px auto;
+  }
+  .direct-contact-container {
+    margin-top: 60px;
+    max-width: 300px;
+  }
+  .social-media-list li {
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+  }
+  .social-media-list li:after {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+  }
+}
+
+@media screen and (max-width: 569px) {
+  #contact {
+    height: 1200px;
+  }
+  .section-header {
+    font-size: 50px;
+  }
+  .direct-contact-container,
+  .form-wrapper {
+    float: none;
+    margin: 0 auto;
+  }
+  .form-control,
+  textarea {
+    max-width: 340px;
+    margin: 0 auto;
+  }
+
+  .name,
+  .email,
+  textarea {
+    width: 280px;
+  }
+  .direct-contact-container {
+    margin-top: 60px;
+    max-width: 280px;
+  }
+  .social-media-list {
+    left: 0;
+  }
+  .social-media-list li {
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+    font-size: 2rem;
+  }
+  .social-media-list li:after {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .send-button {
+    width: 99%;
+  }
+}
+
+.direct-contact-container .icon_contact {
+  margin-left: -4px;
+}
+.direct-contact-container .icon_contact a {
+  border-radius: 50%;
+  padding: 7px;
+}
+.direct-contact-container .icon_contact a:hover {
+  color: red;
+}
